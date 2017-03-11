@@ -15,7 +15,10 @@ The programming language acts as a middleware between the frontend and the backe
 - **Django** - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
 ### Database
-  SQLite/PostgreSQL  
+A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Data is organized into rows, columns and tables, and it is indexed to make it easier to find relevant information. Think of it as a digital ledger wherein you put all your records except that in the database, the data you store can be analyzed, query, searched, updated instantly. I have two choices to use for our database:
+- SQLite
+- PostgreSQL
+
 ### Deployment
   PythonAnywhere  
   AWS Elastic Beanstalk  
