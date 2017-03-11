@@ -19,6 +19,8 @@ A database is a collection of information that is organized so that it can be ea
 - SQLite
 - PostgreSQL
 
+Basically both of them functions well but there are pros and cons. SQLite is a lightweight database that can handle only small to medium data traffic, but it doesn't need to have a dedicated separate server so it cuts the cost of the development. On the other hand, PostgreSQL is an advanced Database Engine that can handle tons of data, but it needs a dedicated database server which adds up to the cost.
+
 ### Deployment
   PythonAnywhere  
   AWS Elastic Beanstalk  
