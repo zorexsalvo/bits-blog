@@ -2,7 +2,7 @@
 
 Business Issue Tracking System / BITS is a Web Application made with different technologies. Those technology stacks are divided into the frontend, the middleware, the backend, the cloud, and the API.
 
-({{ site.baseurl }}/issue_tracking/media/images/screenshot1.png)
+![bits_screenshot]({{ site.baseurl }}/issue_tracking/media/images/screenshot1.png)
 
 ### Frontend
 This simplifies the user-to-machine interaction by giving a user-friendly interfaces. I used markup/web languages such as HTML (Hypertext Markup Language), Javascript and CSS (Cascading Style Sheets) for developing the user interface. Also I used front-end frameworks such as:
