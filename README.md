@@ -11,14 +11,14 @@ This simplifies the user-to-machine interaction by giving a user-friendly interf
 
 To simplify, HTML is just a string of words interpreted by the web browsers, the CSS allows us to style our HTML, and the javascript adds the interactive features like animations, etc..
 
-![frontend_family]({{ site.baseurl }}/issue_tracking/media/images/front-end-family.jpg)
+![frontend_family]({{ site.baseurl }}/issue_tracking/media/images/front-end-family.png)
 
 ### Language/Framework
 The programming language acts as a middleware between the frontend and the backend. This concerns the actual processing of the data. So basically the frontend accepts the inputs, processed by the **middleware** which in our case *python* then saves it to the database.
 - **Python** - Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
 - **Django** - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
-![django]({{ site.baseurl }}/issue_tracking/media/images/django.png)
+![django]({{ site.baseurl }}/issue_tracking/media/images/django.jpg)
 
 ### Database
 A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Data is organized into rows, columns and tables, and it is indexed to make it easier to find relevant information. Think of it as a digital ledger wherein you put all your records except that in the database, the data you store can be analyzed, query, searched, updated instantly. I have two choices to use for our database:
