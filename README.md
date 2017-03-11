@@ -1,3 +1,5 @@
+Business Issue Tracking System / BITS is 
+
 ### Frontend
 Twitter Bootstrap  
 JQuery  
@@ -15,3 +17,6 @@ AWS Elastic Beanstalk
 
 ### Others
 Globelabs API  
+
+
+``` Sample code ```
