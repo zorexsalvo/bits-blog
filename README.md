@@ -19,11 +19,12 @@ A database is a collection of information that is organized so that it can be ea
 - SQLite
 - PostgreSQL
 
-Basically both of them functions well but there are pros and cons. SQLite is a lightweight database that can handle only small to medium data traffic, but it doesn't need to have a dedicated separate server so it cuts the cost of the development. On the other hand, PostgreSQL is an advanced Database Engine that can handle tons of data, but it needs a dedicated database server which adds up to the cost.
+Basically both of them functions well but there are pros and cons. SQLite is a lightweight database that can handle only small to medium data traffic, but it doesn't need to have a dedicated separate server so it cuts the cost of the development. On the other hand, PostgreSQL is an advanced Database Engine that can handle tons of data, but it needs a dedicated database server which can add up to the cost of the development.
 
-### Deployment
-  PythonAnywhere  
-  AWS Elastic Beanstalk  
+### Web Hosting
+> Web hosting is a service that allows organizations and individuals to post a website or web page onto the Internet.
+
+This allows our application to be accessible through the web. Our cloud server is like a PC except it is exposed globally so anyone with internet can access the files we share on our PC provided they have they have the right credentials. Our application is hosted originally on **Amazon Web Service: Elastic Beanstalk** but it will be costly after the free trial so I moved our application to **PythonAnywhere**:*a python-only web-hosting service*.
+
 ### Others
-  Globelabs API  
-  Chrome Application Wrapper  
+- **Globelabs API** - This is a GlobeTelecom SMS API that supports subscriber-consent SMS workflow, meaning, you have to subscribe first to the sms app before you can receive sms notifications.
