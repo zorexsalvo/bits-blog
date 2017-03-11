@@ -11,7 +11,8 @@ To simplify, HTML is just a string of words interpreted by the web browsers, the
 
 ### Language/Framework
 The programming language acts as a middleware between the frontend and the backend. This concerns the actual processing of the data. So basically the frontend accepts the inputs, processed by the **middleware** which in our case *python* then saves it to the database.
-- **Python** - is a High-Level programming language
+- **Python** - Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
+- **Django** - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
 ### Database
   SQLite/PostgreSQL  
