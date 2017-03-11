@@ -1,17 +1,17 @@
-# Frontend
+### Frontend
 - Twitter Bootstrap
 - JQuery
 - AdminLTE
 
-# Language/Framework
+### Language/Framework
 - Python/Django
 
-# Database
-- SQLite
+### Database
+- SQLite/PostgreSQL
 
-# Deployment
+### Deployment
 - pythonanywhere.com
 - AWS Elastic Beanstalk
 
-# Others
+### Others
 - Globelabs API
