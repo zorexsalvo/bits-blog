@@ -19,4 +19,4 @@ AWS Elastic Beanstalk
 Globelabs API  
 
 
-``` Sample code ```
+     Sample code
